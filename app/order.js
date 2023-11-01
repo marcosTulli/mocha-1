@@ -1,7 +1,5 @@
-
-
 module.exports = (cart, cb) => {
-    setTimeout(() => {
-        cb(true)
-    }, 500)
-}
+  setTimeout(() => {
+    cb(true);
+  }, 500);
+};
